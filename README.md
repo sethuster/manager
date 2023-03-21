@@ -62,7 +62,7 @@ On an ongoing basis, I'm going to ask:
 2. What your overall status is.  Stressed?  Underworked?
 
 ## Random stuff about me that aren't work related
-* I'm currently super addicted to Elden Ring and Miyazaki games in general.
+* I'm currently super addicted to type based strategic party JRPGs.
 * There's a small waddler running around my house in the evenings.  A waddler is a pre-toddler that just brings germs home and never goes to sleep.
-* I like to ski in the winters and mountain bike in the summer.  I've spent way to much money on both
+* I like to ski in the winters and mountain bike in the summer.  I've spent way too much money on both
 
