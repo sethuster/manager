@@ -3,7 +3,12 @@ Welcome!  This is a quick overview of what you can expect from me as a manager; 
 
 This is _not_ a full step-by-step of how I work and how to work with me; that's constantly evolving (and different for each working relationship I have).  This is a quick start guide on the basics.
 
-The most important thing to know about the way I run teams is this: my job is to enable everyone in my team to (1) be successful and happy, and (2) be successful in the same direction.  Those are not always easy things to accomplish; but they are the ones that matter.
+The most important thing to know about the way I run teams is this: my job is to enable everyone in my team to:
+
+    (1) be successful and happy 
+    (2) be successful in the same direction.  
+
+Those are not always easy things to accomplish; but they are the ones that matter.
 
 ## On Management
 Some details on how I think about management, in some kind of order:
@@ -21,7 +26,7 @@ Some details on how I think about management, in some kind of order:
     
 * **Career pathing** is having a discussion with you regularly on where you are professionally, where you want to be, and what I can do to help you get there.  We should have these talks at least once a quarter; I can have them more often (and informally) if you want.
 * **Soft skills** are at least as important as domain skills in any job; I would argue that they are _critical_ for QE team members.  Our voices in any conversation come from a place of customer empathy and correctness, and if we abuse that power we'll lose overall influence fast.  Aka: you are speaking for all of us, don't be a jerk.  In fact ...
-* **Don't Be A Jerk.**  ~~Jerks will get the axe.~~ Jerk-ness will receive strong feedback that hopefully leads to behavior change.
+* **Don't Be A Jerk.**  ~~Jerks will get the axe.~~ Jerk-ness will receive strong feedback that will lead to behavior change.
 
     * _(Note: Standing up for yourself is not being a jerk.  Delivering a strong opinion politely is not being a jerk.  Delivering a strong opinion rudely is.)_
 * **Burnout is bad mkay.** Burnout is a thing.  I don't want that.  You don't want that.  So let's not do that.
